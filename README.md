@@ -114,8 +114,8 @@ Final output dataset containing:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/dedicated-mentoring-system.git
-cd dedicated-mentoring-system
+git clone https://github.com/akshata-sa-vant/Dedicated-Mentoring-System-for-Students.git
+cd Dedicated-Mentoring-System-for-Students
 ```
 
 ### Install Dependencies
@@ -186,3 +186,4 @@ Displays students identified as top performers, the average performance scores o
 ## Author
 
 This project was developed as part of an AI and Machine Learning internship project focusing on building intelligent mentoring support systems for students.
+
