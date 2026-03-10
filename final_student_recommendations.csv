@@ -1,0 +1,51 @@
+student_id,age,program,semester,gpa,attendance,assignments_completion,stress_level,sleep_hours,mental_wellbeing,productivity_score,distractions,career_clarity,skill_readiness,engagement_score,gpa_score,APS,stress_score,sleep_score,mental_score,WWS,productivity_scaled,distraction_score,PTMS,career_score,skill_score,CRS,SRI,Category,cluster,cluster_label,need,mentor_type,intervention,assigned_mentor,risk_level
+S001,24,B.Sc,7,8.42,72,57,8,8,6,6,6,4,8,77,90,87,20,100,70,79,60,20,70,80,80,80,80,Green,2,High Performer,general,Academic,Advanced Learning,Mr. Khan,LOW RISK
+S002,21,MBA,2,8.59,62,74,5,6,7,4,8,8,6,46,85.9,76.35,50,80,70,66.66666667,40,20,35.33333333,80,60,70,64.305,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S003,22,B.Sc,2,5.8,98,90,8,7,6,4,3,2,3,85,58,76.4,20,100,60,60,40,70,65,20,30,25,55.42,Yellow,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S004,24,M.Sc,4,6.93,65,73,3,6,3,7,3,3,8,52,69.3,68.75,70,80,30,60,70,70,64,30,80,55,61.925,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S005,20,B.Sc,2,5.96,67,80,5,4,8,4,7,6,7,79,59.6,65.9,50,60,80,63.33333333,40,30,49.66666667,60,70,65,61.87,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S006,25,M.Sc,2,8.95,86,57,3,4,8,7,6,3,5,81,89.5,81.95,70,60,80,70,70,40,63.66666667,30,50,40,63.31833333,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S007,22,M.Sc,6,7.99,68,73,7,7,6,8,5,3,5,48,79.9,74.95,30,100,60,63.33333333,80,50,59.33333333,30,50,40,59.01833333,Yellow,0,High Performer,career,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S008,22,B.Tech,4,6.82,96,74,4,7,5,3,3,3,3,89,68.2,77.7,60,100,50,70,30,70,63,30,30,30,58.91,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S009,24,B.Sc,6,5.75,92,86,8,8,6,6,5,7,6,66,57.5,73.55,20,100,60,60,60,50,58.66666667,70,60,65,65.29833333,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S010,19,B.Tech,7,6.74,83,61,4,8,4,7,8,3,6,97,67.4,70.8,60,100,40,66.66666667,70,20,62.33333333,30,60,45,60.54,Yellow,2,Career Confused,career,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S011,20,B.Sc,8,6.8,74,95,4,6,4,3,3,4,7,41,68,75.2,60,80,40,60,30,70,47,40,70,55,60.46,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S012,24,B.Sc,7,8.42,91,87,8,7,8,4,3,2,3,44,84.2,86.8,20,100,80,66.66666667,40,70,51.33333333,20,30,25,57.14,Yellow,0,High Performer,career,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S013,20,B.Tech,8,8.05,91,94,5,4,5,4,4,8,5,68,80.5,86.35,50,60,50,53.33333333,40,60,56,80,50,65,67.27166667,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S014,20,B.Tech,6,9.05,83,93,7,8,3,3,3,5,6,76,90.5,88.75,30,100,30,53.33333333,30,70,58.66666667,50,60,55,65.525,Blue,0,High Performer,general,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S015,25,B.Sc,7,7.39,71,72,3,8,4,4,2,3,3,77,73.9,72.65,70,100,40,70,40,80,65.66666667,30,30,30,57.92833333,Yellow,0,High Performer,career,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S016,22,MBA,4,5.98,98,94,6,4,8,8,6,6,6,58,59.8,78.1,40,60,80,60,80,40,59.33333333,60,60,60,65.29666667,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S017,21,M.Sc,1,8.35,61,55,3,8,7,8,6,3,8,47,83.5,71.05,70,100,70,80,80,40,55.66666667,30,80,55,64.94833333,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S018,25,B.Tech,6,8.54,62,65,6,6,8,3,5,6,6,87,85.4,74.3,40,80,80,66.66666667,30,50,55.66666667,60,60,60,64.75666667,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S019,25,M.Sc,8,7.75,96,82,3,7,4,7,8,4,5,84,77.5,83.95,70,100,40,70,70,20,58,40,50,45,64.285,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S020,20,MBA,5,8.58,76,79,8,4,4,7,3,6,4,40,85.8,81.5,20,60,40,40,70,70,60,60,40,50,59.45,Yellow,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S021,23,MBA,8,7.48,61,77,7,7,8,3,2,5,7,61,74.8,71.1,30,100,80,70,30,80,57,50,70,60,64.73,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S022,22,MBA,5,7.59,61,85,6,8,3,7,5,2,7,91,75.9,73.25,40,100,30,56.66666667,70,50,70.33333333,20,70,45,60.875,Yellow,2,Career Confused,career,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S023,19,B.Tech,2,7.21,87,84,9,8,6,7,4,6,5,56,72.1,78.95,10,100,60,56.66666667,70,60,62,60,50,55,63.91833333,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S024,25,MBA,7,5.6,82,96,5,4,4,8,5,6,6,46,56,71.8,50,60,40,50,80,50,58.66666667,60,60,60,61.27333333,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S025,21,B.Tech,5,5.93,96,89,3,6,8,7,5,2,3,64,59.3,76.25,70,80,80,76.66666667,70,50,61.33333333,20,30,25,57.975,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S026,23,MBA,8,5.63,91,61,3,5,8,5,3,5,6,84,56.3,67.65,70,60,80,70,50,70,68,50,60,55,64.395,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S027,23,M.Sc,2,8.05,92,70,6,4,5,6,4,3,5,43,80.5,81.85,40,60,50,50,60,60,54.33333333,30,50,40,57.42166667,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S028,19,M.Sc,1,6.76,60,80,5,5,6,4,5,6,7,75,67.6,67.8,50,60,60,56.66666667,40,50,55,60,70,65,62.17333333,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S029,25,B.Sc,4,7.53,78,56,5,5,7,5,2,2,6,45,75.3,72.25,50,60,70,60,50,80,58.33333333,20,60,40,57.34166667,Yellow,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S030,21,M.Sc,4,9.13,61,55,8,6,3,7,2,4,7,99,91.3,74.95,20,80,30,43.33333333,70,80,83,40,70,55,64.25166667,Yellow,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S031,22,B.Sc,4,6.5,85,66,9,5,7,8,6,2,3,70,65,71.2,10,60,70,46.66666667,80,40,63.33333333,20,30,25,50.86,Yellow,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S032,18,M.Sc,5,7.14,91,59,8,5,6,3,4,4,7,58,71.4,74.8,20,60,60,46.66666667,30,60,49.33333333,40,70,55,58.14,Yellow,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S033,21,B.Tech,1,8.52,65,91,8,6,6,7,4,5,7,83,85.2,80.3,20,80,60,53.33333333,70,60,71,50,70,60,66.95666667,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S034,19,M.Sc,5,6.42,91,86,8,5,6,8,6,3,4,93,64.2,76.6,20,60,60,46.66666667,80,40,71,30,40,35,57.01333333,Yellow,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S035,23,B.Sc,7,5.81,63,63,8,5,7,6,5,2,4,78,58.1,60.55,20,60,70,50,60,50,62.66666667,20,40,30,49.69833333,Red,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S036,22,B.Sc,5,6.66,70,95,8,5,6,7,4,8,8,66,66.6,73.3,20,60,60,46.66666667,70,60,65.33333333,80,80,80,68.39,Blue,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S037,21,MBA,1,6.14,76,89,7,4,8,3,2,8,4,49,61.4,71.3,30,60,80,56.66666667,30,80,53,80,40,60,61.32333333,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S038,18,B.Tech,1,9.22,97,73,5,4,7,8,2,7,7,65,92.2,89.8,50,60,70,60,80,80,75,70,70,70,74.94,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S039,18,M.Sc,7,8.73,83,70,8,4,6,8,3,6,5,58,87.3,82.55,20,60,60,46.66666667,80,70,69.33333333,60,50,55,64.465,Yellow,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S040,20,MBA,1,8.03,64,57,5,6,8,8,4,5,7,78,80.3,70.75,50,80,80,70,80,60,72.66666667,50,70,60,67.75833333,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S041,20,M.Sc,8,8.99,93,74,5,8,5,6,5,2,5,42,89.9,87.65,50,100,50,66.66666667,60,50,50.66666667,20,50,35,60.26166667,Yellow,0,High Performer,career,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S042,24,M.Sc,1,8.71,65,78,4,5,6,7,6,8,5,84,87.1,78.65,60,60,60,60,70,40,64.66666667,80,50,65,68.02833333,Blue,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S043,19,MBA,4,6.25,81,87,7,5,7,6,6,6,4,52,62.5,72.95,30,60,70,53.33333333,60,40,50.66666667,60,40,50,57.685,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S044,25,MBA,8,9.07,70,78,8,6,4,4,5,8,6,89,90.7,81.95,20,80,40,46.66666667,40,50,59.66666667,80,60,70,66.85166667,Blue,2,Career Confused,wellness,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S045,21,MBA,8,7.66,75,65,3,5,6,4,8,2,3,67,76.6,73.8,70,60,60,63.33333333,40,20,42.33333333,20,30,25,50.77333333,Yellow,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S046,21,MBA,7,8.73,92,62,6,4,4,7,7,4,4,97,87.3,83.65,40,60,40,46.66666667,70,30,65.66666667,40,40,40,59.56166667,Yellow,0,High Performer,wellness,Academic,Advanced Learning,Ms. Iyer,LOW RISK
+S047,25,MBA,3,9.08,68,90,9,8,8,6,3,2,4,59,90.8,83.8,10,100,80,63.33333333,60,70,63,20,40,30,59.40666667,Yellow,0,High Performer,career,Academic,Advanced Learning,Dr. Sharma,LOW RISK
+S048,24,M.Sc,3,6.77,65,92,3,7,5,3,6,7,6,67,67.7,71.75,70,100,50,73.33333333,30,40,45.66666667,70,60,65,64.825,Yellow,2,Career Confused,general,Career,Career Guidance,Mr. Khan,MEDIUM RISK
+S049,23,MBA,1,5.94,75,94,7,5,3,8,4,2,3,47,59.4,71,30,60,30,40,80,60,62.33333333,20,30,25,49.26666667,Red,1,At Risk,academic,Wellness,Counselling,Ms. Rao,HIGH RISK
+S050,23,B.Tech,8,6.41,88,74,6,4,5,8,3,2,7,80,64.1,73.25,40,60,50,50,80,70,76.66666667,20,70,45,60.80833333,Yellow,2,Career Confused,career,Career,Career Guidance,Mr. Khan,MEDIUM RISK
